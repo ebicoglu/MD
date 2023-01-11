@@ -6,7 +6,7 @@ AbpAuditLogActions is used to store audit log actions.
 
 `Volo.Abp.AuditLogging`
 
-### Uses
+### Columns
 
 | Table | Column | Description |
 | --- | --- | --- |
